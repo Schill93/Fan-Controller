@@ -1,1 +1,2 @@
 http://stackoverflow.com/questions/3262603/accessing-cpu-temperature-in-python
+http://www.meccanismocomplesso.org/en/arduino-tutorial-serial-data-actuator/
