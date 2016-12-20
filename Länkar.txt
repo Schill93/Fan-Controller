@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/3262603/accessing-cpu-temperature-in-python
